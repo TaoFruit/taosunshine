@@ -6,5 +6,9 @@
 -----------------------------------------------------------------*/
 
 
-
+::selection {
+    background: #1ABC9C;
+    color: #FFF;
+    text-shadow: none;
+}
 
