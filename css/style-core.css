@@ -6011,3 +6011,6 @@ object{
 .inteco-header-style-plain.inteco-style-float-left .inteco-navigation {
 	margin-left: 150px;
 }
+
+/* .taosunshine-logo{ padding-left: 20px; padding-right: 100px !important; } */
+.inteco-logo-inner{ max-width: 255px !important; } 
