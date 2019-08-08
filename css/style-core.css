@@ -6001,3 +6001,13 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 	cursor: pointer;
 	font-style: normal;
 }
+
+/* KRASHNIK */ 
+object{
+    pointer-events: none;
+}
+#loadOverlay{display: none;}
+
+.inteco-header-style-plain.inteco-style-float-left .inteco-navigation {
+	margin-left: 150px;
+}
